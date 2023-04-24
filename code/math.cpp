@@ -1,8 +1,6 @@
 #include<iostream>
-
 #include "Vector2f.hpp"
 
-//Vector
 Vector2f::Vector2f()
 {
     x = 0.0f; y = 0.0f;
