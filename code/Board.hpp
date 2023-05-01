@@ -2,9 +2,9 @@
 
 #include<vector>
 
-#include "Vector2f.hpp"
-#include "Mouse.hpp"
-#include "Square.hpp"
+#include "code/Vector2f.hpp"
+#include "code/Mouse.hpp"
+#include "code/Square.hpp"
 
 class Board
 {
