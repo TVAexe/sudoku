@@ -2,8 +2,8 @@
 #include<SDL_image.h>
 #include<iostream>
 
-#include "Entity.hpp"
-#include "Vector2f.hpp"
+#include "code/Entity.hpp"
+#include "code/Vector2f.hpp"
 
 Entity::Entity(Vector2f pos, float pWidth, float pHeight, SDL_Texture* tex)
     :position(pos), texture(tex)
