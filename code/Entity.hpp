@@ -2,7 +2,7 @@
 #include<SDL.h>
 #include<SDL_image.h>
 
-#include "Vector2f.hpp"
+#include "code/Vector2f.hpp"
 
 class Entity
 {
