@@ -3,9 +3,9 @@
 #include<SDL_image.h>
 #include<vector>
 
-#include "Entity.hpp"
-#include "Square.hpp"
-#include "Board.hpp"
+#include "code/Entity.hpp"
+#include "code/Square.hpp"
+#include "code/Board.hpp"
 
 class RenderWindow
 {
