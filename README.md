@@ -1,4 +1,5 @@
 sudoku game của Thân Việt Anh-22026503
+
 Ý tưởng: Hãy lấp đầy bảng số 9x9 bằng các số từ 1 đến 9 theo 1 luật cho trước
 
 Lý do chọn game: Đây là 1 trò chơi kiểm tra về tư duy logic và đồ họa đơn giản 
@@ -16,7 +17,7 @@ Cách chạy chương trình:
 + cài đặt thư viện sdl2 
 + tạo make file theo mẫu 
 
-![image](https://github.com/TVAexe/sudoku/assets/124753939/5a12721f-65cb-4664-804d-cab98d7d4169)
+![image](https://github.com/TVAexe/sudoku/assets/124753939/3ea7361f-7f2b-4518-a115-a21e98ea9058)
 
 + make file và run
 
