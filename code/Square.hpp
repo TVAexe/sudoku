@@ -3,8 +3,8 @@
 #include<array>
 #include<vector>
 
-#include "code/Vector2f.hpp"
-#include "code/Entity.hpp"
+#include "Vector2f.hpp"
+#include "Entity.hpp"
 
 class Square : public Entity
 {
