@@ -3,8 +3,8 @@
 #include<SDL.h>
 #include<SDL_image.h>
 
-#include "code/Vector2f.hpp"
-#include "code/Square.hpp"
+#include "Vector2f.hpp"
+#include "Square.hpp"
 
 
 class Mouse
