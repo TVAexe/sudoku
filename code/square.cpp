@@ -1,8 +1,8 @@
 #include<iostream>
 #include<vector>
 
-#include "code/Vector2f.hpp"
-#include "code/Square.hpp"
+#include "Vector2f.hpp"
+#include "Square.hpp"
 
 Square::Square()
     : Entity(Vector2f(0, 0), 0, 0, nullptr)
