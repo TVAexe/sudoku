@@ -174,20 +174,11 @@ void menu()
             }
         }
 
-        // if (mouse.isInsideEntity(restartButton))
-        //     SDL_SetCursor(SDL_CURSOR_HAND);
-        // else
-        //     SDL_SetCursor(SDL_CURSOR_ARROW);
-
-        // window.clearScreen();
-
+     
         window.render(menuBackground);
         window.render(playButton);
         window.render(helpButton);
         window.render(quitButton);
-
-        // board.setAllSquareColor(255, 255, 255, 255);
-        // board.update(mouse);
 
         window.display();
 
@@ -239,9 +230,6 @@ void help()
         window.render(helpBackground);
         window.render(backButton);
 
-        // board.setAllSquareColor(255, 255, 255, 255);
-        // board.update(mouse);
-
         window.display();
 
         // Timestep management
@@ -259,8 +247,6 @@ int main(int argc, char *argv[])
     init();
 
     menu();
-
-    // game();s
 
     window.clean();
     SDL_Quit();
