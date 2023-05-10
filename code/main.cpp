@@ -6,12 +6,12 @@
 #include <vector>
 #include <ctime>
 
-#include "code/RenderWindow.hpp"
-#include "code/Mouse.hpp"
-#include "code/Entity.hpp"
-#include "code/Board.hpp"
-#include "code/Square.hpp"
-#include "code/Vector2f.hpp"
+#include "RenderWindow.hpp"
+#include "Mouse.hpp"
+#include "Entity.hpp"
+#include "Board.hpp"
+#include "Square.hpp"
+#include "Vector2f.hpp"
 
 #define WINDOW_WIDTH window.getWidth()
 #define WINDOW_HEIGHT window.getHeight()
