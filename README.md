@@ -1,4 +1,4 @@
-Sudoku game của Thân Việt Anh-22026503
+# Sudoku game của Thân Việt Anh-22026503
 
 Ý tưởng: Hãy lấp đầy bảng số 9x9 bằng các số từ 1 đến 9 theo 1 luật cho trước
 
