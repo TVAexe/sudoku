@@ -1,4 +1,4 @@
-#include "code/Mouse.hpp"
+#include "Mouse.hpp"
 
 Mouse::Mouse()
 {
