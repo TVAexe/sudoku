@@ -1,4 +1,4 @@
-sudoku game của Thân Việt Anh-22026503
+Sudoku game của Thân Việt Anh-22026503
 
 Ý tưởng: Hãy lấp đầy bảng số 9x9 bằng các số từ 1 đến 9 theo 1 luật cho trước
 
@@ -22,9 +22,9 @@ Cách chạy chương trình:
 + make file và run
 
  
- Tính năng chính: replay + kiểm tra tính đúng sai của đáp án
+ Tính năng chính: menu + replay + kiểm tra tính đúng sai của đáp án
  
- Tính năng cần thêm: menu + thuật toán tự tạo ra bảng số 
+ Tính năng cần thêm: thuật toán tự tạo ra bảng số 
  
  Tài liệu tham khảo https://github.com/DimensionalDragon/sdl2-sudoku 
  
