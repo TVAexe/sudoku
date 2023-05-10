@@ -64,14 +64,7 @@ void Board::resize(Vector2f pStartPoint, float newSize)
 void Board::restart()
 {
     const std::vector<std::string> chosenProblem = generateProblem();
-    for(int i = 0; i < 81; i++)
-    {
-        std::cout << chosenProblem[1].at(i);
-        if(i % 3 == 2) std::cout << " ";
-        if(i % 9 == 8) std::cout << std::endl;
-        if(i % 27 == 26) std::cout << std::endl;
-    }
-    std::cout << "=================================" << std::endl;
+    
     for(int i = 0; i < 9; i++)
     {
         for(int j = 0; j < 9; j++)
