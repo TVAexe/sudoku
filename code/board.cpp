@@ -3,10 +3,10 @@
 #include<algorithm>
 #include<vector>
 
-#include "code/Vector2f.hpp"
-#include "code/Mouse.hpp"
-#include "code/Square.hpp"
-#include "code/Board.hpp"
+#include "Vector2f.hpp"
+#include "Mouse.hpp"
+#include "Square.hpp"
+#include "Board.hpp"
 
 #define CORRECT_TEXTURE(x) squareTextures[x.getValue()]
 #define WRONG_TEXTURE(x) squareTextures[x.getValue() + 9]
