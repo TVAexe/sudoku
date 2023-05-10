@@ -4,10 +4,10 @@
 #include<fstream>
 #include<string>
 
-#include "code/RenderWindow.hpp"
-#include "code/Entity.hpp"
-#include "code/Square.hpp"
-#include "code/Board.hpp"
+#include "RenderWindow.hpp"
+#include "Entity.hpp"
+#include "Square.hpp"
+#include "Board.hpp"
 
 RenderWindow::RenderWindow(const char* title, int width, int height)
     :window(NULL), renderer(NULL)
